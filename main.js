@@ -1,5 +1,5 @@
 import './style.css'
-import dataSource from "./back/src/dataSource.js";
+import dataSource from "./relation_clients/src/dataSource.js";
 import viteLogo from '/vite.svg'
 
 
